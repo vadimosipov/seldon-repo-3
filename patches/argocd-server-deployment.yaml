@@ -10,3 +10,4 @@ spec:
       - env:
         - name: ARGOCD_API_SERVER_REPLICAS
           value: '3'
+        name: argocd-server
