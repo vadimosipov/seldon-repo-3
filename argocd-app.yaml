@@ -6,6 +6,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/vadimosipov/seldon-repo-3.git
+    path: .
     targetRevision: main
   destination:
     server: https://kubernetes.default.svc
